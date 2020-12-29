@@ -1,0 +1,2 @@
+# AndroidStudio-ListViewAdapter-18
+ 
